@@ -1,0 +1,6 @@
+fn main() {
+
+let welcome_screen = "Hello World";
+
+println!("I would like to say {} ",welcome_screen);
+}
